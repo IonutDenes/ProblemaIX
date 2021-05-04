@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{85C17A43-16D1-48F0-89D5-4DCE0E8E4845}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProblemaXI/Program.cs">
+    <Files>
+      <File FileName="ProblemaXI/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProblemaXI" expanded="True">
+            <Node name="ProblemaXI" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProblemaXI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
